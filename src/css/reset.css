@@ -1,0 +1,15 @@
+/* Arquivo para resetar as configurações padrão de navegador*/
+
+*{ /*seletor podendo ser tag ou classe*/
+    margin: 0; /*control ; para comentar*/
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
